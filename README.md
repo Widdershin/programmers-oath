@@ -1,7 +1,6 @@
-# programmers-oath
-An oath for programmers, adapted from the Hippocratic Oath
+# Programmer's Oath
 
-**As a programmer, I swear to fulfill these stories:**
+**As a programmer, I swear to fulfill these tenets:**
 
 I will only undertake honest and moral work. I will stand firm against any requirement that exploits or harms people.
 
