@@ -31,4 +31,4 @@ Inspired by the [Modern Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocra
 
 This is a very early draft. My intention is to collaboratively write an oath that could be spread in my community. I think the importance of considering the impact of our actions as coders is huge, and not talked about enough.
 
-A longer term goal would be to convince some companies to only hire developers who have taken the oath.
+A longer term goal would be to convince some companies to only hire developers who have taken the oath. Along the same lines if you had publicly taken the oath and your company wanted you to do something you feel is wrong, you would have a document to point at and discuss.
