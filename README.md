@@ -18,7 +18,7 @@ I will remember that I do not write code for computers, but for people.
 
 I will consider the possible consequences of my code and actions. I will respect the difficulties of both social and technical problems.
 
-I will be dilligent and take pride in my work. I will practice pragmatism above idealism.
+I will be diligent and take pride in my work. I will practice pragmatism above idealism.
 
 I will recognize that I can and will be wrong, sometimes. I will keep an open mind, and listen to others carefully and with respect.
 
