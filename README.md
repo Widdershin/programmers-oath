@@ -12,7 +12,7 @@ I will not be ashamed to say "I don't know", and I will ask for help when I am s
 
 I will respect the privacy of my users, for their information is not disclosed to me that the world may know.
 
-I will tread most carefully in matters of life or death. Above all, I must not play at God.
+I will tread most carefully in matters of life or death. I will be humble and recognize that I will make mistakes.
 
 I will remember that I do not write code for computers, but for people.
 
