@@ -20,7 +20,7 @@
 
 8. I will be diligent and take pride in my work.
 
-9. I will recognize that I can and will be wrong, sometimes. I will keep an open mind, and listen to others carefully and with respect.
+9. I will recognize that I can and will be wrong. I will keep an open mind, and listen to others carefully and with respect.
 
 
 ------
