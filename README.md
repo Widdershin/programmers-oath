@@ -39,4 +39,4 @@ We have a list of public signatures in the [SIGNATURES](https://github.com/Widde
 
 If you wish to sign, please [add your username and the current commit hash](https://github.com/Widdershin/programmers-oath/edit/master/SIGNATURES) to the end of the SIGNATURES file, and submit a pull request.
 
-If you do sign, please also consider sharing this repository in your communities and encouraging others to take alook.
+If you do sign, please also consider sharing this repository in your communities and encouraging others to take a look.
