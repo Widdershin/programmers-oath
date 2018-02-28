@@ -12,15 +12,17 @@
 
 4. I will respect the privacy of my users, for their information is not disclosed to me that the world may know.
 
-5. I will tread most carefully in matters of life or death. I will be humble and recognize that I will make mistakes.
+5. I will be humble and recognize that I will make mistakes.
 
-6. I will remember that I do not write code for computers, but for people.
+6. I will tread most carefully in matters of life or death.
 
-7. I will consider the possible consequences of my code and actions. I will respect the difficulties of both social and technical problems.
+7. I will remember that I do not write code for computers, but for people.
 
-8. I will be diligent and take pride in my work.
+8. I will consider the possible consequences of my code and actions. I will respect the difficulties of both social and technical problems.
 
-9. I will recognize that I can and will be wrong. I will keep an open mind, and listen to others carefully and with respect.
+9. I will be diligent and take pride in my work.
+
+10. I will recognize that I can and will be wrong. I will keep an open mind, and listen to others carefully and with respect.
 
 
 ------
