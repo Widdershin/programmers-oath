@@ -4,7 +4,7 @@
 
 0. I will only undertake honest and moral work. I will stand firm against any requirement that exploits or harms people.
 
-1. I will respect the learnings of those programmers who came before me, and share my learnings with those to come.
+1. I will respect the lessons learned by those who came before me, and will share what I learn with those to come.
 
 2. I will remember that programming is art as well as science, and that warmth, empathy and understanding may outweigh a clever algorithm or technical argument.
 
