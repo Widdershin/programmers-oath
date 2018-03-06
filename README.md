@@ -33,10 +33,16 @@ My intention is to collaboratively write an oath that could be spread in my comm
 
 A longer term goal would be to convince some companies to only hire developers who have taken the oath. Along the same lines if you had publicly taken the oath and your company wanted you to do something you feel is wrong, you would have a document to point at and discuss.
 
-**Signing**
+## Signing
 
 We have a list of public signatures in the [SIGNATURES](https://github.com/Widdershin/programmers-oath/blob/master/SIGNATURES) file.
 
 If you wish to sign, please [add your username and the current commit hash](https://github.com/Widdershin/programmers-oath/edit/master/SIGNATURES) to the end of the SIGNATURES file, and submit a pull request.
 
 If you do sign, please also consider sharing this repository in your communities and encouraging others to take a look.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](LICENSE)
+
+To the extent possible under law, [Widdershin](https://github.com/Widdershin) (the maintainer) and other contributors have waived all copyright and related or neighboring rights to this work.
