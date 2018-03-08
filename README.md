@@ -25,7 +25,7 @@
 
 ------
 
-Something missing? Disagree with a tenet? Think the wording should be changed? Please [open an issue](https://github.com/Widdershin/programmers-oath/issues/new) and we can figure it out. I highly welcome collaboration, and I will do my best to facilitate an oath that reflects a diverse range of views.
+Something missing? Disagree with a tenet? Think the wording should be changed? Please [open an issue](https://github.com/Widdershin/programmers-oath/issues/new) and we can figure it out. I highly welcome collaboration, and I will do my best to facilitate an oath that reflects a diverse range of views. Please read the [code of conduct](https://github.com/Widdershin/programmers-oath/blob/master/CODE_OF_CONDUCT.md) and abide by it. If you have a negative experience collaborating on this project, [reach out to me](mailto:ncwjohnstone@gmail) and I will do my utmost to help.
 
 Inspired by the [Modern Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath#Modern_version) and [the Obligation of the Engineer](https://en.wikipedia.org/wiki/Engineer's_Ring#The_Obligation_of_The_Engineer).
 
