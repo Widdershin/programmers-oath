@@ -37,9 +37,17 @@ A longer term goal would be to convince some companies to only hire developers w
 
 We have a list of public signatures in the [SIGNATURES](https://github.com/Widdershin/programmers-oath/blob/master/SIGNATURES) file.
 
-If you wish to sign, please [add your username and the current commit hash](https://github.com/Widdershin/programmers-oath/edit/master/SIGNATURES) to the end of the SIGNATURES file, and submit a pull request.
+If you wish to sign, please [add your username and the current commit hash](https://github.com/Widdershin/programmers-oath/edit/master/SIGNATURES) to the end of the SIGNATURES file (leaving a newline after your addition), and submit a pull request.
 
 If you do sign, please also consider sharing this repository in your communities and encouraging others to take a look.
+
+### Re-signing
+
+The oath is a living document, changing based on the feedback and agreement of those who wish to contribute. When you sign, the commit hash serves as the 'version' of the oath to which you have agreed. This means you are beholden to only what you have signed, and not the versions of the oath that have come later.
+
+Signatories are welcome to upgrade or downgrade to older or newer versions of the oath whenever they choose.
+
+To do this, open another Pull Request. On your signature line, replace the old commit hash with the hash of the version you choose. A contributor will check and merge your alteration in the same way as they would a new signature.
 
 ## License
 
