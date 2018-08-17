@@ -51,7 +51,7 @@ Signatories are welcome to upgrade or downgrade to older or newer versions of th
 
 To do this, open another Pull Request. On your signature line, replace the old commit hash with the hash of the version you choose. A contributor will check and merge your alteration in the same way as they would a new signature. We recommend that signatories follow the repository through GitHub so that they can see updates as they are made, and decide whether or not to re-sign.
 
-### Humane technology
+## Humane technology
 
 [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
 
