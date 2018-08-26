@@ -51,6 +51,12 @@ Signatories are welcome to upgrade or downgrade to older or newer versions of th
 
 To do this, open another Pull Request. On your signature line, replace the old commit hash with the hash of the version you choose. A contributor will check and merge your alteration in the same way as they would a new signature. We recommend that signatories follow the repository through GitHub so that they can see updates as they are made, and decide whether or not to re-sign.
 
+## Humane technology
+
+[![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
+
+The [Center for Humane Technology](https://humanetech.com) (CHT) community - who strive to align technology to humanity's best interests - endorses this repository with the Humane Tech badge. Raising employee awareness within IT companies is one of the CHT's core pillars, and adhering to the Progammer's Oath is an excellent start to work towards this goal.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](LICENSE)
