@@ -60,6 +60,7 @@ The [Center for Humane Technology](https://humanetech.com) (CHT) community - who
 ## Related work
 
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/)
+- [Never Again Pledge](https://neveragain.tech/)
 
 ## License
 
