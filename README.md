@@ -57,6 +57,13 @@ To do this, open another Pull Request. On your signature line, replace the old c
 
 The [Center for Humane Technology](https://humanetech.com) (CHT) community - who strive to align technology to humanity's best interests - endorses this repository with the Humane Tech badge. Raising employee awareness within IT companies is one of the CHT's core pillars, and adhering to the Progammer's Oath is an excellent start to work towards this goal.
 
+## Related work
+
+- [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/)
+- [Ethical OS Toolkit](https://ethicalos.org/)
+- [ACM Code of Ethics](https://ethics.acm.org/)
+- [Never Again Pledge](https://neveragain.tech/)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](LICENSE)
