@@ -31,10 +31,6 @@ Something missing? Disagree with a tenet? Think the wording should be changed? P
 
 Inspired by the [Modern Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath#Modern_version) and [the Obligation of the Engineer](https://en.wikipedia.org/wiki/Engineer's_Ring#The_Obligation_of_The_Engineer).
 
-My intention is to collaboratively write an oath that could be spread in my community. I think the importance of considering the impact of our actions as coders is huge, and not talked about enough.
-
-A longer term goal would be to convince some companies to only hire developers who have taken the oath. Along the same lines if you had publicly taken the oath and your company wanted you to do something you feel is wrong, you would have a document to point at and discuss.
-
 ## Signing
 
 We have a list of public signatures in the [SIGNATURES](https://github.com/Widdershin/programmers-oath/blob/master/SIGNATURES) file.
@@ -53,7 +49,7 @@ To do this, open another Pull Request. On your signature line, replace the old c
 
 ## Humane technology
 
-[![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
+[![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
 
 The [Center for Humane Technology](https://humanetech.com) (CHT) community - who strive to align technology to humanity's best interests - endorses this repository with the Humane Tech badge. Raising employee awareness within IT companies is one of the CHT's core pillars, and adhering to the Progammer's Oath is an excellent start to work towards this goal.
 
