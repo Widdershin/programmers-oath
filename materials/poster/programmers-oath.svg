@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="oath.svg">
+   sodipodi:docname="programmers-oath.svg">
   <svg:title
      id="title4341">The Programmer's Oath</svg:title>
   <svg:defs
@@ -365,9 +365,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.83614358"
-     inkscape:cx="350.26415"
-     inkscape:cy="256.60824"
+     inkscape:zoom="1.1584671"
+     inkscape:cx="338.51988"
+     inkscape:cy="142.22843"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1007,36 +1007,7 @@
        cy="35.695534"
        r="1.7287948" />
     <svg:g
-       id="g2980"
-       style="filter:url(#filter3004)"
-       transform="translate(-0.52916663,-0.52916663)">
-      <svg:g
-         id="g2994"
-         transform="matrix(0.79062925,0,0,0.79062925,9.8733721,2.9120925)"
-         style="opacity:0.899103">
-        <svg:path
-           d="m 47.04582,17.860633 1.507221,-1.798089 1.507223,1.798089 0.965151,-0.661062 -1.229576,-2.02285 1.983186,-0.885823 -0.343752,-1.084142 -2.115399,0.515628 -0.185097,-2.300496 h -1.16347 l -0.185097,2.300496 -2.115398,-0.515628 -0.343753,1.084142 1.983186,0.885823 -1.229575,2.02285 z"
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.330532"
-           id="path2366" />
-        <svg:path
-           id="path2943"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-           d="m 47.891922,6.3265405 -8.316804,8.3157725 v 2.829284 L 50.720691,6.3265405 Z" />
-      </svg:g>
-      <svg:path
-         id="path2975"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-         d="M 36.157208,2.592451 36.502582,13.990578 47.648155,2.8455216 Z"
-         sodipodi:nodetypes="cccc" />
-    </svg:g>
-    <svg:use
-       x="0"
-       y="0"
-       xlink:href="#g2980"
-       id="use2990"
-       transform="rotate(180,95.634065,22.640394)"
-       width="100%"
-       height="100%" />
+       id="g2069" />
     <svg:path
        d="m 207.07428,1.0468237 c -0.92799,0 -1.67962,0.751631 -1.67962,1.679625 a 1.6786143,1.6786143 0 0 0 1.14852,1.593621 c 0.084,0.0146 0.11539,-0.0358 0.11539,-0.07995 0,-0.0398 -0.002,-0.171991 -0.002,-0.312743 -0.42192,0.07776 -0.5311,-0.102796 -0.56469,-0.197358 -0.019,-0.04837 -0.10078,-0.197353 -0.17216,-0.237327 -0.0588,-0.03142 -0.14277,-0.109176 -0.002,-0.111195 0.13235,-0.0019 0.22674,0.121771 0.25832,0.172163 0.15117,0.253959 0.3927,0.182573 0.48911,0.138568 0.0148,-0.109176 0.0588,-0.182574 0.10716,-0.224567 -0.37372,-0.04202 -0.76423,-0.186941 -0.76423,-0.829396 0,-0.182745 0.065,-0.333743 0.17216,-0.451482 -0.0168,-0.04196 -0.0756,-0.214154 0.0168,-0.445101 0,0 0.14058,-0.04399 0.4619,0.172328 a 1.5586893,1.5586893 0 0 1 0.4199,-0.05675 c 0.14277,0 0.28554,0.01879 0.41991,0.05663 0.32114,-0.218346 0.46189,-0.171991 0.46189,-0.171991 0.0924,0.230946 0.0336,0.403107 0.0168,0.4451 0.10699,0.117575 0.17216,0.266554 0.17216,0.451311 0,0.644645 -0.39253,0.787409 -0.76624,0.829402 0.0608,0.05237 0.11337,0.153182 0.11337,0.310731 0,0.22456 -0.002,0.405122 -0.002,0.461893 0,0.04399 0.0316,0.09641 0.11556,0.07961 a 1.6823096,1.6823096 0 0 0 1.14416,-1.593456 c 0,-0.927994 -0.75163,-1.679625 -1.67962,-1.679625 z"
        id="path3604"
@@ -1068,5 +1039,13 @@
          x="204.66144"
          y="7.6486139"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;fill:#dea6bc;fill-opacity:0.984314;stroke-width:0.264583">poster by emi tatsuo</svg:tspan></svg:text>
+    <svg:path
+       d="M 5.1901769e-6,5.1899821e-6 1.3066452,43.07813 43.431645,0.95508329 Z M 43.771485,20.113286 18.919925,44.960943 v 8.455078 l 33.30469,-33.302735 z m 0.23633,15.22461 -0.55273,6.875 -6.32031,-1.541016 -1.02735,3.240235 5.92578,2.646484 -3.67383,6.044922 2.88282,1.974609 4.5039,-5.373047 4.50391,5.373047 2.88477,-1.974609 -3.67383,-6.044922 5.92578,-2.646484 -1.02735,-3.240235 -6.32031,1.541016 -0.55469,-6.875 z"
+       transform="matrix(0.26458333,0,0,0.26458333,35.627797,2.0634385)"
+       style="fill:#ffffff" />
+    <svg:path
+       d="M 154.65712,42.810104 154.31141,31.41235 143.16583,42.557406 Z m -11.5812,-5.321639 6.57531,-6.574276 v -2.237072 l -8.81187,8.811348 z m -0.0625,-4.028178 0.14624,-1.81901 1.67225,0.407727 0.27182,-0.857312 -1.56786,-0.700216 0.97203,-1.599385 -0.76275,-0.522449 -1.19165,1.421619 -1.19166,-1.421619 -0.76326,0.522449 0.97203,1.599385 -1.56786,0.700216 0.27182,0.857312 1.67225,-0.407727 0.14676,1.81901 z"
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path2264" />
   </svg:g>
 </svg:svg>
