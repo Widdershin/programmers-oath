@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="oath.svg">
+  <svg:title
+     id="title4341">The Programmer's Oath</svg:title>
+  <svg:defs
+     id="defs2">
+    <svg:marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <svg:path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path2510" />
+    </svg:marker>
+    <svg:marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <svg:path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path2504" />
+    </svg:marker>
+    <svg:marker
+       style="overflow:visible"
+       id="Arrow2Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart"
+       inkscape:isstock="true">
+      <svg:path
+         transform="scale(0.3) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path2507" />
+    </svg:marker>
+    <svg:marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <svg:path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2492" />
+    </svg:marker>
+    <svg:marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <svg:path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2486" />
+    </svg:marker>
+    <svg:marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <svg:path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2480" />
+    </svg:marker>
+    <svg:pattern
+       inkscape:collect="always"
+       xlink:href="#pattern1277"
+       id="pattern2240"
+       patternTransform="matrix(1.0756366,0,0,0.92108769,-45.362544,605.74855)" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect896" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect862" />
+    <svg:rect
+       x="11.269017"
+       y="58.466685"
+       width="61.975345"
+       height="47.580236"
+       id="rect856" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect900" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect914" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect928" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect946" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect960" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect974" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect988" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect1002" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect1016" />
+    <svg:rect
+       x="11.135354"
+       y="52.135913"
+       width="62.109008"
+       height="53.911008"
+       id="rect1030" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect916" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect940" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect964" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect989" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect1013" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect1037" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect1061" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect1085" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect1109" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect1133" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="141.36073"
+       height="25.132749"
+       id="rect1157" />
+    <svg:pattern
+       patternUnits="userSpaceOnUse"
+       width="811.75712"
+       height="78.751024"
+       patternTransform="translate(-44.925774,526.94259)"
+       id="pattern1277">
+      <svg:rect
+         style="opacity:0.992613;fill:#f0386b;fill-opacity:0.992157;stroke:none;stroke-width:7.4651;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect1015"
+         width="811.75714"
+         height="78.751022"
+         x="0"
+         y="0"
+         ry="1.9975305" />
+    </svg:pattern>
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="256.46797"
+       height="30.633022"
+       id="rect2246" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2252" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2258" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2264" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2270" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2276" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2282" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2288" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2294" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2300" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2306" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2312" />
+    <svg:rect
+       x="68.383915"
+       y="44.025999"
+       width="291.8469"
+       height="33.349387"
+       id="rect2318" />
+    <svg:filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3004"
+       x="-9.3707968e-08"
+       width="1.0000002"
+       y="-9.5092716e-08"
+       height="1.0000002">
+      <svg:feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.721721e-07"
+         id="feGaussianBlur3006" />
+    </svg:filter>
+  </svg:defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.83614358"
+     inkscape:cx="350.26415"
+     inkscape:cy="256.60824"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true" />
+  <svg:metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>The Programmer's Oath</dc:title>
+        <dc:date>2020-12-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Emi Tatsuo Simpson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC0 1.0 Universal [https://creativecommons.org/publicdomain/zero/1.0/]</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:language>en_US</dc:language>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Oath written by Widdershin et al.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <svg:path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.3969248,22.116141 0,284.989099"
+       id="path2466"
+       sodipodi:nodetypes="cc" />
+    <svg:rect
+       style="opacity:1;fill:#f21064;fill-opacity:0.984314;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect2472"
+       width="238.05734"
+       height="4.981492"
+       x="-16.62479"
+       y="19.960909"
+       ry="0.48680687" />
+    <svg:path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="m 8.3969248,35.695532 c 0,0 9.6654442,0.611302 9.6654442,-5.580345 V 6.2614424"
+       id="path2470"
+       sodipodi:nodetypes="csc" />
+    <svg:rect
+       style="opacity:0.992613;fill:#f11163;fill-opacity:0.988235;stroke-width:2.79058;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect2347"
+       width="115.61116"
+       height="36.483562"
+       x="37.45845"
+       y="4.2098737"
+       ry="0.55879492" />
+    <svg:path
+       id="rect894"
+       style="opacity:0.992613;fill:#b30b8b;fill-opacity:0.992157;stroke:none;stroke-width:7.35454;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 178.64453 C -44.542746 178.64453 -45.363281 179.46507 -45.363281 180.48438 L -45.363281 223.76758 L -33.546875 192.61719 L 69.181641 192.61719 L 52.269531 237.20703 L -45.363281 237.20703 L -45.363281 249.33984 C -45.363281 250.35915 -44.542746 251.17969 -43.523438 251.17969 L 808.18555 251.17969 C 809.20485 251.17969 810.02539 250.35915 810.02539 249.33984 L 810.02539 180.48438 C 810.02539 179.46507 809.20485 178.64453 808.18555 178.64453 L -43.523438 178.64453 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g902"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,10.846023,28.163356)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path898" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path900" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="62.235569"
+       id="text906"><svg:tspan
+         sodipodi:role="line"
+         id="tspan904"
+         x="27.183182"
+         y="62.235569"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">00</svg:tspan></svg:text>
+    <svg:path
+       id="rect918"
+       style="opacity:0.992613;fill:#b40b80;fill-opacity:0.992157;stroke:none;stroke-width:7.3556;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 264.06445 C -44.542746 264.06445 -45.363281 264.88499 -45.363281 265.9043 L -45.363281 309.18945 L -33.546875 278.03906 L 69.181641 278.03906 L 52.269531 322.62695 L -45.363281 322.62695 L -45.363281 334.76172 C -45.363281 335.78102 -44.542746 336.60156 -43.523438 336.60156 L 808.43164 336.60156 C 809.45094 336.60156 810.27148 335.78102 810.27148 334.76172 L 810.27148 265.9043 C 810.27148 264.88499 809.45094 264.06445 808.43164 264.06445 L -43.523438 264.06445 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g926"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,10.846023,50.764291)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path922" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path924" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="84.836487"
+       id="text930"><svg:tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="27.183182"
+         y="84.836487"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">01</svg:tspan></svg:text>
+    <svg:path
+       id="rect942"
+       style="opacity:0.992613;fill:#be0b7e;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 349.48633 C -44.542746 349.48633 -45.363281 350.30687 -45.363281 351.32617 L -45.363281 394.60938 L -33.546875 363.45898 L 69.181641 363.45898 L 52.269531 408.04883 L -45.363281 408.04883 L -45.363281 420.18164 C -45.363281 421.20094 -44.542746 422.02148 -43.523438 422.02148 L 825.95312 422.02148 C 826.97243 422.02148 827.79297 421.20094 827.79297 420.18164 L 827.79297 351.32617 C 827.79297 350.30687 826.97243 349.48633 825.95312 349.48633 L -43.523438 349.48633 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g950"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,10.846023,73.365229)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path946" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path948" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="107.43744"
+       id="text954"><svg:tspan
+         sodipodi:role="line"
+         id="tspan952"
+         x="27.183182"
+         y="107.43744"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">02</svg:tspan></svg:text>
+    <svg:path
+       id="rect966"
+       style="opacity:0.992613;fill:#d30c7b;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 434.90625 C -44.542746 434.90625 -45.363281 435.72676 -45.363281 436.74609 L -45.363281 480.03125 L -33.546875 448.88086 L 69.181641 448.88086 L 52.269531 493.46875 L -45.363281 493.46875 L -45.363281 505.60352 C -45.363281 506.62282 -44.542746 507.44336 -43.523438 507.44336 L 825.95312 507.44336 C 826.97243 507.44336 827.79297 506.62282 827.79297 505.60352 L 827.79297 436.74609 C 827.79297 435.72676 826.97243 434.90625 825.95312 434.90625 L -43.523438 434.90625 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g974"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,10.846023,95.966176)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path970" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path972" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="130.03836"
+       id="text978"><svg:tspan
+         sodipodi:role="line"
+         id="tspan976"
+         x="27.183182"
+         y="130.03836"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">03</svg:tspan></svg:text>
+    <svg:path
+       id="rect991"
+       style="opacity:0.992613;fill:#e22273;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 520.32812 C -44.542746 520.32813 -45.363281 521.14867 -45.363281 522.16797 L -45.363281 565.45117 L -33.546875 534.30078 L 69.181641 534.30078 L 52.269531 578.89062 L -45.363281 578.89062 L -45.363281 591.02344 C -45.363281 592.04274 -44.542746 592.86328 -43.523438 592.86328 L 825.95312 592.86328 C 826.97243 592.86328 827.79297 592.04274 827.79297 591.02344 L 827.79297 522.16797 C 827.79297 521.14867 826.97243 520.32812 825.95312 520.32812 L -43.523438 520.32812 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g999"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,10.846023,118.56713)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path995" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path997" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="152.63921"
+       id="text1003"><svg:tspan
+         sodipodi:role="line"
+         id="tspan1001"
+         x="27.183182"
+         y="152.63921"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">04</svg:tspan></svg:text>
+    <svg:path
+       id="rect1280"
+       style="fill:url(#pattern2240);stroke:none;stroke-width:0.995365"
+       d="M -45.363281 605.74805 L -45.363281 657.23242 L -31.84375 621.5918 L 70.886719 621.5918 L 53.972656 666.18164 L -45.363281 666.18164 L -45.363281 678.28516 L 827.79297 678.28516 L 827.79297 605.74805 L -45.363281 605.74805 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g1023"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,11.296815,141.66284)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1019" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1021" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="175.24014"
+       id="text1027"><svg:tspan
+         sodipodi:role="line"
+         id="tspan1025"
+         x="27.183182"
+         y="175.24014"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">05</svg:tspan></svg:text>
+    <svg:path
+       id="rect1039"
+       style="opacity:0.992613;fill:#f74f5d;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 691.16797 C -44.542746 691.16797 -45.363281 691.98851 -45.363281 693.00781 L -45.363281 742.65234 L -31.84375 707.01172 L 70.886719 707.01172 L 53.972656 751.60156 L -45.363281 751.60156 L -45.363281 761.86523 C -45.363281 762.88454 -44.542746 763.70508 -43.523438 763.70508 L 825.95312 763.70508 C 826.97243 763.70508 827.79297 762.88454 827.79297 761.86523 L 827.79297 693.00781 C 827.79297 691.98851 826.97243 691.16797 825.95312 691.16797 L -43.523438 691.16797 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g1047"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,11.296815,164.26378)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1043" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1045" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="197.84109"
+       id="text1051"><svg:tspan
+         sodipodi:role="line"
+         id="tspan1049"
+         x="27.183182"
+         y="197.84109"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">06</svg:tspan></svg:text>
+    <svg:path
+       id="rect1063"
+       style="opacity:0.992613;fill:#fe654f;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 776.58984 C -44.542746 776.58984 -45.363281 777.41039 -45.363281 778.42969 L -45.363281 828.07422 L -31.84375 792.43359 L 70.886719 792.43359 L 53.972656 837.02344 L -45.363281 837.02344 L -45.363281 847.28711 C -45.363281 848.30645 -44.542746 849.12695 -43.523438 849.12695 L 825.95312 849.12695 C 826.97243 849.12695 827.79297 848.30645 827.79297 847.28711 L 827.79297 778.42969 C 827.79297 777.41039 826.97243 776.58984 825.95312 776.58984 L -43.523438 776.58984 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g1071"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,11.296815,186.86472)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1067" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1069" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="220.44205"
+       id="text1075"><svg:tspan
+         sodipodi:role="line"
+         id="tspan1073"
+         x="27.183182"
+         y="220.44205"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">07</svg:tspan></svg:text>
+    <svg:path
+       id="rect1087"
+       style="opacity:0.992613;fill:#ff8248;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 862.00977 C -44.542746 862.00977 -45.363281 862.83031 -45.363281 863.84961 L -45.363281 913.49414 L -31.84375 877.85352 L 70.886719 877.85352 L 53.972656 922.44336 L -45.363281 922.44336 L -45.363281 932.70703 C -45.363281 933.72633 -44.542746 934.54688 -43.523438 934.54688 L 825.95312 934.54688 C 826.97243 934.54687 827.79297 933.72633 827.79297 932.70703 L 827.79297 863.84961 C 827.79297 862.83031 826.97243 862.00977 825.95312 862.00977 L -43.523438 862.00977 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g1095"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,11.296815,209.46566)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1091" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1093" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="243.04295"
+       id="text1099"><svg:tspan
+         sodipodi:role="line"
+         id="tspan1097"
+         x="27.183182"
+         y="243.04295"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">08</svg:tspan></svg:text>
+    <svg:path
+       id="rect1111"
+       style="opacity:0.992613;fill:#ff9e41;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 947.43164 C -44.542746 947.43164 -45.363281 948.25218 -45.363281 949.27148 L -45.363281 998.91602 L -31.84375 963.27539 L 70.886719 963.27539 L 53.972656 1007.8652 L -45.363281 1007.8652 L -45.363281 1018.1289 C -45.363281 1019.1482 -44.542746 1019.9688 -43.523438 1019.9688 L 825.95312 1019.9688 C 826.97243 1019.9687 827.79297 1019.1482 827.79297 1018.1289 L 827.79297 949.27148 C 827.79297 948.25218 826.97243 947.43164 825.95312 947.43164 L -43.523438 947.43164 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g1119"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,11.296815,232.06661)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1115" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1117" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="265.6441"
+       id="text1123"><svg:tspan
+         sodipodi:role="line"
+         id="tspan1121"
+         x="27.183182"
+         y="265.6441"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">09</svg:tspan></svg:text>
+    <svg:path
+       id="rect1135"
+       style="opacity:0.992613;fill:#ffba3a;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       d="M -43.523438 1032.8535 C -44.542746 1032.8535 -45.363281 1033.6741 -45.363281 1034.6934 L -45.363281 1084.3359 L -31.84375 1048.6953 L 70.886719 1048.6953 L 53.972656 1093.2852 L -45.363281 1093.2852 L -45.363281 1103.5508 C -45.363281 1104.5701 -44.542746 1105.3906 -43.523438 1105.3906 L 825.95312 1105.3906 C 826.97243 1105.3906 827.79297 1104.5701 827.79297 1103.5508 L 827.79297 1034.6934 C 827.79297 1033.6741 826.97243 1032.8535 825.95312 1032.8535 L -43.523438 1032.8535 z "
+       transform="scale(0.26458333)" />
+    <svg:g
+       aria-label="//"
+       id="g1143"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="matrix(0.5338802,0,0,0.5338802,11.296815,254.66755)">
+      <svg:path
+         d="m 17.221458,64.8042 h 3.6068 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1139" />
+      <svg:path
+         d="m 9.8131233,64.8042 h 3.6067997 l 8.381999,-22.098 h -3.6068 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:#ffffff"
+         id="path1141" />
+    </svg:g>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
+       x="27.183182"
+       y="288.24509"
+       id="text1147"><svg:tspan
+         sodipodi:role="line"
+         id="tspan1145"
+         x="27.183182"
+         y="288.24509"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">10</svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2250"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect2252);"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,49.060909)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will respect the lessons learned by those who came before </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">me, and will share what I learn with those to come.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2256"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2258);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,94.268098)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will not be ashamed to say &quot;I don't know&quot;, and I will ask for </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">help when I am stuck.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text912"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect916);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,71.661839)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will remember warmth, empathy and understanding may </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">outweigh a clever algorithm or technical argument.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2268"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect2270);"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,26.629798)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will only undertake honest and moral work. I will stand firm </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">against any requirement that harms people unnecessarily.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2274"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect2276);"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,116.86901)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will respect the privacy of my users, for their information is </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">not disclosed to me that the world may know.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2280"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2282);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,142.95326)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will be humble and recognize that I will make mistakes.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2292"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect2294);"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,165.55421)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will tread most carefully in matters of life or death.
+</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2298"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2300);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,184.67175)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will remember that I do not write code for computers, but for </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">people.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2304"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2306);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,233.35703)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will be diligent and take pride in my work.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2310"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2312);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,252.47479)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will recognize that I can and will be wrong. I will keep an </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">open mind, and listen to others carefully and with respect.
+</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       id="text2316"
+       style="font-style:normal;font-weight:normal;font-size:9.91171px;line-height:1.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2318);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5338802,0,0,0.5338802,13.982174,207.27265)"><svg:tspan
+         x="68.384766"
+         y="53.042723"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will consider the consequences of my code and actions. I will </svg:tspan></svg:tspan><svg:tspan
+         x="68.384766"
+         y="66.111937"><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">respect the difficulties of both social and technical problems.</svg:tspan></svg:tspan></svg:text>
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.05;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="95.184647"
+       y="15.030893"
+       id="text2341"><svg:tspan
+         sodipodi:role="line"
+         id="tspan2339"
+         x="95.184647"
+         y="15.030893"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">The</svg:tspan><svg:tspan
+         sodipodi:role="line"
+         x="95.184647"
+         y="26.24671"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan2345">Programmer's</svg:tspan><svg:tspan
+         sodipodi:role="line"
+         x="95.184647"
+         y="37.462528"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan2343">Oath</svg:tspan></svg:text>
+    <svg:circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.988235;stroke:#000000;stroke-width:3.16209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="path2416"
+       cx="8.396925"
+       cy="56.862206"
+       r="1.7287948" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2446"
+       transform="translate(0,22.600901)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2448"
+       transform="translate(0,45.201847)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2450"
+       transform="translate(0,67.802793)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2452"
+       transform="translate(0,90.403738)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2454"
+       transform="translate(0,113.00469)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2456"
+       transform="translate(0,135.60537)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2458"
+       transform="translate(0,158.20658)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2460"
+       transform="translate(0,180.80726)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2462"
+       transform="translate(0,203.40847)"
+       width="100%"
+       height="100%" />
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#path2416"
+       id="use2464"
+       transform="translate(0,226.00967)"
+       width="100%"
+       height="100%"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <svg:circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.988235;stroke:#000000;stroke-width:3.16209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="circle2468"
+       cx="8.396925"
+       cy="35.695534"
+       r="1.7287948" />
+    <svg:g
+       id="g2980"
+       style="filter:url(#filter3004)"
+       transform="translate(-0.52916663,-0.52916663)">
+      <svg:g
+         id="g2994"
+         transform="matrix(0.79062925,0,0,0.79062925,9.8733721,2.9120925)"
+         style="opacity:0.899103">
+        <svg:path
+           d="m 47.04582,17.860633 1.507221,-1.798089 1.507223,1.798089 0.965151,-0.661062 -1.229576,-2.02285 1.983186,-0.885823 -0.343752,-1.084142 -2.115399,0.515628 -0.185097,-2.300496 h -1.16347 l -0.185097,2.300496 -2.115398,-0.515628 -0.343753,1.084142 1.983186,0.885823 -1.229575,2.02285 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.330532"
+           id="path2366" />
+        <svg:path
+           id="path2943"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           d="m 47.891922,6.3265405 -8.316804,8.3157725 v 2.829284 L 50.720691,6.3265405 Z" />
+      </svg:g>
+      <svg:path
+         id="path2975"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="M 36.157208,2.592451 36.502582,13.990578 47.648155,2.8455216 Z"
+         sodipodi:nodetypes="cccc" />
+    </svg:g>
+    <svg:use
+       x="0"
+       y="0"
+       xlink:href="#g2980"
+       id="use2990"
+       transform="rotate(180,95.634065,22.640394)"
+       width="100%"
+       height="100%" />
+    <svg:path
+       d="m 207.07428,1.0468237 c -0.92799,0 -1.67962,0.751631 -1.67962,1.679625 a 1.6786143,1.6786143 0 0 0 1.14852,1.593621 c 0.084,0.0146 0.11539,-0.0358 0.11539,-0.07995 0,-0.0398 -0.002,-0.171991 -0.002,-0.312743 -0.42192,0.07776 -0.5311,-0.102796 -0.56469,-0.197358 -0.019,-0.04837 -0.10078,-0.197353 -0.17216,-0.237327 -0.0588,-0.03142 -0.14277,-0.109176 -0.002,-0.111195 0.13235,-0.0019 0.22674,0.121771 0.25832,0.172163 0.15117,0.253959 0.3927,0.182573 0.48911,0.138568 0.0148,-0.109176 0.0588,-0.182574 0.10716,-0.224567 -0.37372,-0.04202 -0.76423,-0.186941 -0.76423,-0.829396 0,-0.182745 0.065,-0.333743 0.17216,-0.451482 -0.0168,-0.04196 -0.0756,-0.214154 0.0168,-0.445101 0,0 0.14058,-0.04399 0.4619,0.172328 a 1.5586893,1.5586893 0 0 1 0.4199,-0.05675 c 0.14277,0 0.28554,0.01879 0.41991,0.05663 0.32114,-0.218346 0.46189,-0.171991 0.46189,-0.171991 0.0924,0.230946 0.0336,0.403107 0.0168,0.4451 0.10699,0.117575 0.17216,0.266554 0.17216,0.451311 0,0.644645 -0.39253,0.787409 -0.76624,0.829402 0.0608,0.05237 0.11337,0.153182 0.11337,0.310731 0,0.22456 -0.002,0.405122 -0.002,0.461893 0,0.04399 0.0316,0.09641 0.11556,0.07961 a 1.6823096,1.6823096 0 0 0 1.14416,-1.593456 c 0,-0.927994 -0.75163,-1.679625 -1.67962,-1.679625 z"
+       id="path3604"
+       style="fill:#dea5bc;fill-opacity:0.984314;stroke-width:0.167962" />
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#dea6bc;fill-opacity:0.984314;stroke:none;stroke-width:0.264583"
+       x="204.71858"
+       y="3.3900614"
+       id="text4219"><svg:tspan
+         sodipodi:role="line"
+         id="tspan4217"
+         x="204.71858"
+         y="3.3900614"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;fill:#dea6bc;fill-opacity:0.984314;stroke-width:0.264583">widdershin/programmers-oath</svg:tspan></svg:text>
+    <a />
+    <svg:path
+       d="m 207.11645,5.419428 c 0.90417,0 1.638,0.7338239 1.638,1.6379999 0,0.9041759 -0.73383,1.6380001 -1.638,1.6380001 -0.90418,0 -1.638,-0.7338242 -1.638,-1.6380001 0,-0.904176 0.73382,-1.6379999 1.638,-1.6379999 z m 0,0.3275999 c -0.72318,0 -1.3104,0.587223 -1.3104,1.3104 0,0.7231769 0.58722,1.3103999 1.3104,1.3103999 0.72318,0 1.3104,-0.587223 1.3104,-1.3103999 0,-0.723177 -0.58722,-1.3104 -1.3104,-1.3104 z m 0,0.3276 c 0.45225,0 0.819,0.4399668 0.819,0.9828 0,0.5428331 -0.36675,0.9827999 -0.819,0.9827999 -0.45225,0 -0.819,-0.4399668 -0.819,-0.9827999 0,-0.5428332 0.36675,-0.9828 0.819,-0.9828 z m 0.38084,0.5687136 -0.58346,1.0111373 c 0.0618,0.037346 0.13038,0.058149 0.20262,0.058149 0.27141,0 0.4914,-0.293202 0.4914,-0.6552 0,-0.1570842 -0.0414,-0.3012282 -0.11056,-0.4140863 z m -0.38084,-0.2411136 c -0.27142,0 -0.4914,0.293202 -0.4914,0.6552 0,0.1570842 0.0414,0.3012281 0.11056,0.4140863 l 0.58346,-1.0111373 a 0.38935257,0.38935257 0 0 0 -0.20262,-0.058149 z"
+       id="path4302"
+       style="fill:#dea6bc;fill-opacity:0.984314;stroke-width:0.1638" />
+    <svg:text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#dea6bc;fill-opacity:0.984314;stroke:none;stroke-width:0.264583"
+       x="204.66144"
+       y="7.6486139"
+       id="text4219-6"><svg:tspan
+         sodipodi:role="line"
+         id="tspan4217-7"
+         x="204.66144"
+         y="7.6486139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Nunito;-inkscape-font-specification:Nunito;text-align:end;text-anchor:end;fill:#dea6bc;fill-opacity:0.984314;stroke-width:0.264583">poster by emi tatsuo</svg:tspan></svg:text>
+  </svg:g>
+</svg:svg>
