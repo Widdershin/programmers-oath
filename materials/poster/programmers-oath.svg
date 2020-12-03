@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="programmers-oath.svg">
+   sodipodi:docname="programmers-oath.svg"
+   inkscape:export-filename="/home/emi/Desktop/programmers-oath/materials/poster/programmers-oath.png"
+   inkscape:export-xdpi="92.36364"
+   inkscape:export-ydpi="92.36364">
   <svg:title
      id="title4341">The Programmer's Oath</svg:title>
   <svg:defs
@@ -365,9 +368,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1584671"
-     inkscape:cx="474.98794"
-     inkscape:cy="496.2523"
+     inkscape:zoom="0.85430875"
+     inkscape:cx="341.31901"
+     inkscape:cy="327.8992"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -470,14 +473,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="62.235569"
+       x="28.241516"
+       y="62.794941"
        id="text906"><svg:tspan
          sodipodi:role="line"
          id="tspan904"
-         x="27.183182"
-         y="62.235569"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">00</svg:tspan></svg:text>
+         x="28.241516"
+         y="62.794941"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">00</svg:tspan></svg:text>
     <svg:path
        id="rect918"
        style="opacity:0.992613;fill:#b40b80;fill-opacity:0.992157;stroke:none;stroke-width:7.3556;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -500,14 +503,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="84.836487"
+       x="28.241516"
+       y="85.395889"
        id="text930"><svg:tspan
          sodipodi:role="line"
          id="tspan928"
-         x="27.183182"
-         y="84.836487"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">01</svg:tspan></svg:text>
+         x="28.241516"
+         y="85.395889"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">01</svg:tspan></svg:text>
     <svg:path
        id="rect942"
        style="opacity:0.992613;fill:#be0b7e;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -530,14 +533,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="107.43744"
+       x="28.241516"
+       y="107.99683"
        id="text954"><svg:tspan
          sodipodi:role="line"
          id="tspan952"
-         x="27.183182"
-         y="107.43744"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">02</svg:tspan></svg:text>
+         x="28.241516"
+         y="107.99683"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">02</svg:tspan></svg:text>
     <svg:path
        id="rect966"
        style="opacity:0.992613;fill:#d30c7b;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -560,14 +563,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="130.03836"
+       x="28.241516"
+       y="130.59778"
        id="text978"><svg:tspan
          sodipodi:role="line"
          id="tspan976"
-         x="27.183182"
-         y="130.03836"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">03</svg:tspan></svg:text>
+         x="28.241516"
+         y="130.59778"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">03</svg:tspan></svg:text>
     <svg:path
        id="rect991"
        style="opacity:0.992613;fill:#e22273;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -590,14 +593,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="152.63921"
+       x="28.241516"
+       y="153.19873"
        id="text1003"><svg:tspan
          sodipodi:role="line"
          id="tspan1001"
-         x="27.183182"
-         y="152.63921"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">04</svg:tspan></svg:text>
+         x="28.241516"
+         y="153.19873"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">04</svg:tspan></svg:text>
     <svg:path
        id="rect1280"
        style="fill:url(#pattern2240);stroke:none;stroke-width:0.995365"
@@ -620,14 +623,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="175.24014"
+       x="28.241516"
+       y="175.79967"
        id="text1027"><svg:tspan
          sodipodi:role="line"
          id="tspan1025"
-         x="27.183182"
-         y="175.24014"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">05</svg:tspan></svg:text>
+         x="28.241516"
+         y="175.79967"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">05</svg:tspan></svg:text>
     <svg:path
        id="rect1039"
        style="opacity:0.992613;fill:#f74f5d;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -650,14 +653,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="197.84109"
+       x="28.241516"
+       y="198.40036"
        id="text1051"><svg:tspan
          sodipodi:role="line"
          id="tspan1049"
-         x="27.183182"
-         y="197.84109"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">06</svg:tspan></svg:text>
+         x="28.241516"
+         y="198.40036"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">06</svg:tspan></svg:text>
     <svg:path
        id="rect1063"
        style="opacity:0.992613;fill:#fe654f;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -680,14 +683,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="220.44205"
+       x="28.241516"
+       y="221.00156"
        id="text1075"><svg:tspan
          sodipodi:role="line"
          id="tspan1073"
-         x="27.183182"
-         y="220.44205"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">07</svg:tspan></svg:text>
+         x="28.241516"
+         y="221.00156"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">07</svg:tspan></svg:text>
     <svg:path
        id="rect1087"
        style="opacity:0.992613;fill:#ff8248;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -710,14 +713,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="243.04295"
+       x="28.241516"
+       y="243.60225"
        id="text1099"><svg:tspan
          sodipodi:role="line"
          id="tspan1097"
-         x="27.183182"
-         y="243.04295"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">08</svg:tspan></svg:text>
+         x="28.241516"
+         y="243.60225"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">08</svg:tspan></svg:text>
     <svg:path
        id="rect1111"
        style="opacity:0.992613;fill:#ff9e41;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -740,19 +743,19 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="265.6441"
+       x="28.241516"
+       y="266.20346"
        id="text1123"><svg:tspan
          sodipodi:role="line"
          id="tspan1121"
-         x="27.183182"
-         y="265.6441"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">09</svg:tspan></svg:text>
+         x="28.241516"
+         y="266.20346"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">09</svg:tspan></svg:text>
     <svg:path
-       id="rect1135"
        style="opacity:0.992613;fill:#ffba3a;fill-opacity:0.992157;stroke:none;stroke-width:7.43051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
-       d="M -43.523438 1032.8535 C -44.542746 1032.8535 -45.363281 1033.6741 -45.363281 1034.6934 L -45.363281 1084.3359 L -31.84375 1048.6953 L 70.886719 1048.6953 L 53.972656 1093.2852 L -45.363281 1093.2852 L -45.363281 1103.5508 C -45.363281 1104.5701 -44.542746 1105.3906 -43.523438 1105.3906 L 825.95312 1105.3906 C 826.97243 1105.3906 827.79297 1104.5701 827.79297 1103.5508 L 827.79297 1034.6934 C 827.79297 1033.6741 826.97243 1032.8535 825.95312 1032.8535 L -43.523438 1032.8535 z "
-       transform="scale(0.26458333)" />
+       d="m -43.523438,1032.8535 c -1.019308,0 -1.839843,0.8206 -1.839843,1.8399 v 49.6425 l 13.519531,-35.6406 H 70.886719 l -16.914063,44.5899 h -99.335937 v 10.2656 c 0,1.0193 0.820535,1.8398 1.839843,1.8398 H 825.95312 c 1.01931,0 1.83985,-0.8205 1.83985,-1.8398 v -68.8574 c 0,-1.0193 -0.82054,-1.8399 -1.83985,-1.8399 z"
+       transform="scale(0.26458333)"
+       id="rect1135" />
     <svg:g
        aria-label="//"
        id="g1143"
@@ -770,14 +773,14 @@
     <svg:text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9508px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.141255"
-       x="27.183182"
-       y="288.24509"
+       x="28.241516"
+       y="288.80466"
        id="text1147"><svg:tspan
          sodipodi:role="line"
          id="tspan1145"
-         x="27.183182"
-         y="288.24509"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9508px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';fill:#ffffff;stroke-width:0.141255">10</svg:tspan></svg:text>
+         x="28.241516"
+         y="288.80466"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.9508px;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Ultra-Bold';fill:#ffffff;stroke-width:0.141255">10</svg:tspan></svg:text>
     <svg:text
        xml:space="preserve"
        id="text2250"
@@ -807,7 +810,7 @@
        transform="matrix(0.5338802,0,0,0.5338802,13.982174,71.661839)"><svg:tspan
          x="68.384766"
          y="53.042723"><svg:tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will that remember warmth, empathy and understanding may </svg:tspan></svg:tspan><svg:tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">I will thatremember warmth, empathy and understanding may </svg:tspan></svg:tspan><svg:tspan
          x="68.384766"
          y="66.111937"><svg:tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.91171px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#ffffff">outweigh a clever algorithm or technical argument.</svg:tspan></svg:tspan></svg:text>
@@ -902,16 +905,16 @@
          id="tspan2339"
          x="95.184647"
          y="15.030893"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">The</svg:tspan><svg:tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">The</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="95.184647"
-         y="26.24671"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="26.480976"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="tspan2345">Programmer's</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="95.184647"
-         y="37.462528"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="37.931057"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Monospace';-inkscape-font-specification:'Recursive Monospace Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="tspan2343">Oath</svg:tspan></svg:text>
     <svg:circle
        style="opacity:1;fill:#ffffff;fill-opacity:0.988235;stroke:#000000;stroke-width:3.16209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
