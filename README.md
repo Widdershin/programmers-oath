@@ -24,8 +24,7 @@
 
 10. I will recognize that I can and will be wrong. I will keep an open mind, and listen to others carefully and with respect.
 
-11. I will give back to the community by volunteering my time and expertise to open source projects and by offering help to those who need it, without expecting or demanding anything in return.
-    I will be kind to my fellow programmers and offer help to the best of my ability. I will not feign surprise when they don't know something, or disparage their code, and will try to point them in the direction of learning to solve their own problems.
+11. I will be kind to my fellow programmers and offer help to the best of my ability. I will not feign surprise when they don't know something, or disparage their code.
 
 ------
 
