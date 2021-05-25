@@ -24,6 +24,7 @@
 
 10. I will recognize that I can and will be wrong. I will keep an open mind, and listen to others carefully and with respect.
 
+11. I will be kind to my fellow programmers and offer help to the best of my ability. I will not feign surprise when they don't know something, or disparage their code.
 
 ------
 
