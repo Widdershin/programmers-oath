@@ -10,7 +10,7 @@
 
 3. I will not be ashamed to say "I don't know", and I will ask for help when I am stuck.
 
-4. I will respect the privacy of my users, for their information is not disclosed to me that the world may know.
+4. I will respect the privacy of my users, and use their data only to the end that it was entrusted to me for.
 
 5. I will be humble and recognize that I will make mistakes.
 
