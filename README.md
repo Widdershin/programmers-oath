@@ -2,7 +2,7 @@
 
 **As a programmer, I swear to fulfill these tenets:**
 
-0. I will only undertake honest and moral work. I will stand firm against any requirement that harms people unnecessarily.
+0. I will only undertake honest and moral work. I will stand firm against any requirement that harms unnecessarily.
 
 1. I will respect the lessons learned by those who came before me, and will share what I learn with those to come.
 
